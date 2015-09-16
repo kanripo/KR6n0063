@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:11.423917
+#+DATE: 2015-08-30 20:57:14.828659
 #+TITLE: 攝大乘論釋論
 #+PROPERTY: CBETA_ID T31n1596
 #+PROPERTY: ID KR6n0063
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1596
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0063_T_010-0315a> 
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《攝大乘論釋論》卷第十¶
+《攝大乘論釋論》卷第十¶
 ¶
 世親菩薩造¶
 隋天竺三藏笈多共行矩等譯¶
