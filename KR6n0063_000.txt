@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 攝大乘論釋論
+#+DATE: 2015-08-30 20:57:11.722084
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6n0063
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+垢
